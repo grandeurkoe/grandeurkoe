@@ -6,7 +6,7 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif" alt="☄" width="32" height="32">
 </picture></h2>
 
-<p>Welcome to my page! </br> I'm Vishal, Python developer from <b>Mumbai, India.
+<p>Welcome to my page! </br> I'm Vishal, Python developer from <b>Mumbai, India. </b>
 
 ### 🛠️ Tools
 
