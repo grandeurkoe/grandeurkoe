@@ -1,3 +1,13 @@
+<h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif" alt="☄" width="32" height="32">
+</picture>Hey! Nice to see you.<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif" alt="☄" width="32" height="32">
+</picture></h2>
+
+<p>Welcome to my page! </br> I'm Vishal, Python developer from <b>Mumbai, India.
+
 ### 🛠️ Tools
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
