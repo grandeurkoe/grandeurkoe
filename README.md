@@ -1,9 +1,24 @@
-### 🛠️ My Tools
+### 🛠️ Tools
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
 ![Pycharm](https://img.shields.io/badge/-Pycharm-black?style=flat-square&logo=Pycharm)
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
+
+### 📘 Projects and Repositories
+
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <details>	
+  <summary><b> 🖿 Repositories </b></summary>
+
+  <br />
+   <p align="left">
+    <a href="https://github.com/grandeurkoe/data-structures-and-algorithms"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grandeurkoe&repo=data-structures-and-algorithms&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="data-structures-and-algorithms"></a>
+    <a href="https://github.com/grandeurkoe/100-days-of-code-the-complete-python-pro-bootcamp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grandeurkoe&repo=100-days-of-code-the-complete-python-pro-bootcamp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="100-days-of-code-the-complete-python-pro-bootcamp"></a>
+  </p>
+</details>
+
 
 ### 📊 Github Stats and Activity
 
