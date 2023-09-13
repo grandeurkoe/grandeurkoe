@@ -11,9 +11,11 @@
 ### 🛠️ Tools
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
 ![Replit](https://img.shields.io/badge/-Replit-black?style=flat-square&logo=Replit)
 ![Pycharm](https://img.shields.io/badge/-Pycharm-black?style=flat-square&logo=Pycharm)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=visualstudiocode)
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
 
 ### 📘 Projects and Repositories
