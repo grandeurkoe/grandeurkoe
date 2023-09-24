@@ -7,7 +7,7 @@
 </picture></h2>
 
 <p>
-  Welcome to my page! </br> I'm Vishal, Python developer from <b>Mumbai, India 🇮🇳 . </b> Why do I love software development? Well, there is no greater feeling than working on a project that on onset appears to be an insurmountable task, but on further introspection is totally conquerable. Through software development, I can turn ideas that I've concocted into reality.
+  Welcome to my page! </br> I'm Vishal, Python developer from <b>Mumbai, India 🇮🇳 . </b> Why do I love software development? Well, there is no greater feeling than working on a project that on onset appears to be an insurmountable task, but on further introspection is totally conquerable. Through software development, I wish to turn ideas that I've concocted into reality.
 </p>
 <p>
 &nbsp;&nbsp; - 🔭 I’m currently working on Flask projects.
