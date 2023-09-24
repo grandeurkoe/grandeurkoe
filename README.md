@@ -15,8 +15,6 @@
 &nbsp;&nbsp; - 🌱 I’m currently learning Flask framework.
 
 &nbsp;&nbsp; - 👯 I’m willing to collaborate on building communitites, and research projects.
-
-&nbsp;&nbsp; - 📫 How to reach me: mailme.Vishal@proton.me
 </p>
 
 ### 🛠️ Tools
