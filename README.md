@@ -42,8 +42,8 @@
 
   <br />
    <p align="left">
-    <a href="https://github.com/grandeurkoe/data-structures-and-algorithms"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grandeurkoe&repo=data-structures-and-algorithms&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="data-structures-and-algorithms"></a>
-    <a href="https://github.com/grandeurkoe/100-days-of-code-the-complete-python-pro-bootcamp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grandeurkoe&repo=100-days-of-code-the-complete-python-pro-bootcamp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="100-days-of-code-the-complete-python-pro-bootcamp"></a>
+    <a href="https://github.com/grandeurkoe/data-structures-and-algorithms"><img height="140px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grandeurkoe&repo=data-structures-and-algorithms&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="data-structures-and-algorithms"></a>
+    <a href="https://github.com/grandeurkoe/100-days-of-code-the-complete-python-pro-bootcamp"><img height="140px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grandeurkoe&repo=100-days-of-code-the-complete-python-pro-bootcamp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="100-days-of-code-the-complete-python-pro-bootcamp"></a>
   </p>
 </details>
 
