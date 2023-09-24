@@ -17,7 +17,7 @@
   
 &nbsp;&nbsp; - 🌱 I’m currently learning Flask framework.
 
-&nbsp;&nbsp; - 👯 I’m willing to collaborate on building communitites, and projects.
+&nbsp;&nbsp; - 👯 I’m willing to collaborate on building communities, and projects.
 </p>
 
 ### 🛠️ Tools
