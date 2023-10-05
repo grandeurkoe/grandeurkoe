@@ -27,6 +27,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
+![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
 ![Jinja](https://img.shields.io/badge/-Jinja-black?style=flat-square&logo=Jinja)
 ![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=Selenium)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
