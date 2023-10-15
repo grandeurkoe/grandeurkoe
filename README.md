@@ -6,7 +6,8 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif" alt="☄" width="32" height="32" />
 </picture></h2>
 
-![https://github.com/grandeurkoe](https://komarev.com/ghpvc/?username=granduekoe)
+![Profile View Counter](https://komarev.com/ghpvc/?username=granduekoe)
+[![Protonmail Badge](https://img.shields.io/badge/-Protonmail-8a90c7?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:mixdeers@gmail.com)](mailto:mixdeers@gmail.com)
 
 <p>
   Welcome to my page! </br> I'm Vishal, Python developer from  🇮🇳<b> Mumbai, India.</b> Why do I love software development? Well, there is no greater feeling than working on a project that on onset appears to be an insurmountable task, but on further introspection is totally conquerable. Through software development, I wish to turn ideas that I've concocted into reality.
@@ -20,8 +21,8 @@
 ### 🛠️ Tools
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-ffde57?style=flat-square&logo=python&logoColor=#4584b6" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-59287a?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-4848b6?style=flat-square&logo=pandas&logoColor=white" />
