@@ -26,14 +26,14 @@
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-7099f7?style=flat-square&logo=sqlite&logoColor=white" />
   <img alt="Jinja" src="https://img.shields.io/badge/-Jinja-3D0C11?style=flat-square&logo=jinja&logoColor=white" />
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-16FF00?style=flat-square&logo=selenium&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/-Flask-430098?style=flat-square&logo=flask&logoColor=white" />
-  <img alt="Replit" src="https://img.shields.io/badge/-Replit-764ABC?style=flat-square&logo=replit&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/-Postman-764ABC?style=flat-square&logo=postman&logoColor=white" />
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-B7178C?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-B7178C?style=flat-square&logo=googlecolab&logoColor=white" />
-  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-B7178C?style=flat-square&logo=obsidian&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Github" src="https://img.shields.io/badge/-Github-E10098?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-08abaa?style=flat-square&logo=flask&logoColor=white" />
+  <img alt="Replit" src="https://img.shields.io/badge/-Replit-CD5C08?style=flat-square&logo=replit&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-fb7505?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-ed750a?style=flat-square&logo=googlecolab&logoColor=white" />
+  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-7E1DFB?style=flat-square&logo=obsidian&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-f34f29?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Github" src="https://img.shields.io/badge/-Github-14232c?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 
