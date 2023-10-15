@@ -31,6 +31,7 @@
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-764ABC?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-B7178C?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-B7178C?style=flat-square&logo=googlecolab&logoColor=white" />
+  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-B7178C?style=flat-square&logo=obsidian&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/-Github-E10098?style=flat-square&logo=github&logoColor=white" />
 </p>
