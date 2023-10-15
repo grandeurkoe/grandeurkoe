@@ -18,14 +18,14 @@
 ### 🛠️ Tools
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-46a2f1?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-2088FF?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-1a73e8?style=flat-square&logo=pandas&logoColor=white" />
-  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-007ACC?style=flat-square&logo=sqlite&logoColor=white" />
-  <img alt="Jinja" src="https://img.shields.io/badge/-Jinja-5849BE?style=flat-square&logo=jinja&logoColor=white" />
-  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-311C87?style=flat-square&logo=selenium&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-59287a?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-4848b6?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-7099f7?style=flat-square&logo=sqlite&logoColor=white" />
+  <img alt="Jinja" src="https://img.shields.io/badge/-Jinja-3D0C11?style=flat-square&logo=jinja&logoColor=white" />
+  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-16FF00?style=flat-square&logo=selenium&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-430098?style=flat-square&logo=flask&logoColor=white" />
   <img alt="Replit" src="https://img.shields.io/badge/-Replit-764ABC?style=flat-square&logo=replit&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-764ABC?style=flat-square&logo=postman&logoColor=white" />
