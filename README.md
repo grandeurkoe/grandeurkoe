@@ -39,6 +39,8 @@
   <img alt="Github" src="https://img.shields.io/badge/-Github-14232c?style=flat-square&logo=github&logoColor=white" />
 </p>
 
+### My Stats
+
 ![My Contributions](profile-3d-contrib/profile-night-rainbow.svg)
 
 <p align="center">
