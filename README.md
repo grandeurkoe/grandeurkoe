@@ -7,31 +7,32 @@
 </picture></h2>
 
 <p>
-  Welcome to my page! </br> I'm Vishal, Python developer from <b>Mumbai, India 🇮🇳 . </b> Why do I love software development? Well, there is no greater feeling than working on a project that on onset appears to be an insurmountable task, but on further introspection is totally conquerable. Through software development, I wish to turn ideas that I've concocted into reality.
+  Welcome to my page! </br> I'm Vishal, Python developer from  🇮🇳<b> Mumbai, India.</b> Why do I love software development? Well, there is no greater feeling than working on a project that on onset appears to be an insurmountable task, but on further introspection is totally conquerable. Through software development, I wish to turn ideas that I've concocted into reality.
 </p>
-<p>
-&nbsp;&nbsp; - 🔭 I’m currently working on Data Science projects.
-  
-&nbsp;&nbsp; - 🌱 I’m currently learning Data Science.
 
-&nbsp;&nbsp; - 👯 I’m willing to collaborate on building communities, and projects.
-</p>
+- 🔭 I’m currently working on Data Science projects.
+- 🌱 I’m currently learning Data Science.
+- 👯 I’m willing to collaborate on building communities, and projects.
+
 
 ### 🛠️ Tools
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
-![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
-![Jinja](https://img.shields.io/badge/-Jinja-black?style=flat-square&logo=Jinja)
-![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=Selenium)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
-![Replit](https://img.shields.io/badge/-Replit-black?style=flat-square&logo=Replit)
-![Pycharm](https://img.shields.io/badge/-Pycharm-black?style=flat-square&logo=Pycharm)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=visualstudiocode)
-![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-46a2f1?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-2088FF?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-1a73e8?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-007ACC?style=flat-square&logo=sqlite&logoColor=white" />
+  <img alt="Jinja" src="https://img.shields.io/badge/-Jinja-5849BE?style=flat-square&logo=jinja&logoColor=white" />
+  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-311C87?style=flat-square&logo=selenium&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-430098?style=flat-square&logo=flask&logoColor=white" />
+  <img alt="Replit" src="https://img.shields.io/badge/-Replit-764ABC?style=flat-square&logo=replit&logoColor=white" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-B7178C?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Github" src="https://img.shields.io/badge/-Github-E10098?style=flat-square&logo=github&logoColor=white" />
+</p>
+
 
 ### 📘 Projects and Repositories
 
