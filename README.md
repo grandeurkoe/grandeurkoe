@@ -19,7 +19,7 @@
 - 👯 I’m willing to collaborate on building communities, and projects.
 
 
-### 🛠️ Tools
+### My Tools
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-ffde57?style=flat-square&logo=python&logoColor=#4584b6" />
