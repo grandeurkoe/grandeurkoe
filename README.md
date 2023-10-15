@@ -6,7 +6,7 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif" alt="☄" width="32" height="32" />
 </picture></h2>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=granduekoe)
+![Profile View Counter](https://komarev.com/ghpvc/?username=granduekoe&style=flat-square&color=blueviolet)
 [![Protonmail Badge](https://img.shields.io/badge/-Protonmail-8a90c7?style=flat-square&logo=Protonmail&logoColor=#505264&link=mailto:mailme.Vishal@proton.me)](mailto:mailme.Vishal@proton.me)
 
 <p>
