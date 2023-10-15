@@ -14,10 +14,9 @@
   Welcome to my page! </br> I'm Vishal, Python developer from  🇮🇳<b> Mumbai, India.</b> Why do I love software development? Well, there is no greater feeling than working on a project that on onset appears to be an insurmountable task, but on further introspection is totally conquerable. Through software development, I wish to turn ideas that I've concocted into reality.
 </p>
 
-- 🔭 I’m currently working on Data Science projects.
-- 🌱 I’m currently learning Data Science.
+- 🔭 I’m currently analyzing a wide range of datasets.
+- 🌱 I’m currently learning **Data Science**.
 - 👯 I’m willing to collaborate on building communities, and projects.
-
 
 ### My Tools
 
