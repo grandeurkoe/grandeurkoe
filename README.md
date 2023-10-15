@@ -39,6 +39,8 @@
   <img alt="Github" src="https://img.shields.io/badge/-Github-14232c?style=flat-square&logo=github&logoColor=white" />
 </p>
 
+![My Contributions](profile-3d-contrib/profile-night-rainbow.svg)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p
