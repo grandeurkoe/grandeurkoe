@@ -44,6 +44,12 @@
 ![My Contributions](profile-3d-contrib/profile-night-rainbow.svg)
 
 <!--START_SECTION:waka-->
+
+```txt
+YAML       8 mins          ███████████████████████▒░   92.88 %
+Markdown   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+```
+
 <!--END_SECTION:waka-->
 
 <p align="center">
