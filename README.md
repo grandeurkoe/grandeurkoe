@@ -43,8 +43,7 @@
   <img alt="Github" src="https://img.shields.io/badge/-Github-14232c?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-<!--### My Stats-->
-<!-- 📊 **This Week I Spent My Time On** -->
+### My Stats
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2054%20mins-blue)
