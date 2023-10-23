@@ -123,10 +123,6 @@ Jupyter Notebook         2 repos             ███████████�
  Last Updated on 23/10/2023 08:30:01 UTC
 <!--END_SECTION:waka-->
 
-### My Calender
-
-![My Contributions](profile-3d-contrib/profile-night-rainbow.svg)
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
