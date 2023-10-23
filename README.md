@@ -52,9 +52,9 @@
 
 > 📦 173.1 kB Used in GitHub's Storage 
  > 
-> 🏆 786 Contributions in the Year 2023
+> 🏆 791 Contributions in the Year 2023
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 4 Public Repositories 
  > 
@@ -118,7 +118,7 @@ Jupyter Notebook         2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/grandeurkoe/grandeurkoe/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2023 09:03:50 UTC
+ Last Updated on 23/10/2023 09:10:23 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
