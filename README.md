@@ -27,6 +27,8 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-59287a?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-4848b6?style=flat-square&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-7099f7?style=flat-square&logo=numpy&logoColor=4848b6" />
+  <img alt="Plotly" src="https://img.shields.io/badge/-Plotly-000000?style=flat-square&logo=plotly&logoColor=white" />
+  <img alt="sciket-learn" src="https://img.shields.io/badge/-scikit%20learn-EC471A?style=flat-square&logo=scikit-learn&logoColor=1E81FB" />
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-7099f7?style=flat-square&logo=sqlite&logoColor=white" />
   <img alt="Jinja" src="https://img.shields.io/badge/-Jinja-3D0C11?style=flat-square&logo=jinja&logoColor=white" />
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-16FF00?style=flat-square&logo=selenium&logoColor=white" />
