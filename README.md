@@ -43,9 +43,12 @@
   <img alt="Github" src="https://img.shields.io/badge/-Github-14232c?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-<!--START_SECTION:waka-->
+### My Stats
 
-```txt
+<!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
 Markdown   15 hrs 12 mins  █████████████████████▒░░░   85.74 %
 Perl       2 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
 YAML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
