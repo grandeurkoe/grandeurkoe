@@ -44,6 +44,13 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown   15 hrs 12 mins  █████████████████████▒░░░   85.74 %
+Perl       2 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
+YAML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+```
+
 <!--END_SECTION:waka-->
 
 ### My Calender
