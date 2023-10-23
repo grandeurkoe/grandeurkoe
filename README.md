@@ -31,6 +31,7 @@
   <img alt="Jinja" src="https://img.shields.io/badge/-Jinja-3D0C11?style=flat-square&logo=jinja&logoColor=white" />
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-16FF00?style=flat-square&logo=selenium&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-08abaa?style=flat-square&logo=flask&logoColor=white" />
+  <img alt="Pycharm" src="https://img.shields.io/badge/-Pycharm-ffe873?style=flat-square&logo=pycharm&logoColor=black" />
   <img alt="Replit" src="https://img.shields.io/badge/-Replit-CD5C08?style=flat-square&logo=replit&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-fb7505?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=flat-square&logo=visualstudiocode&logoColor=white" />
