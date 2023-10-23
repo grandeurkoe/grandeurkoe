@@ -11,7 +11,7 @@
 [![Protonmail Badge](https://img.shields.io/badge/-mailme.Vishal@proton.me-8a90c7?style=flat-square&logo=Protonmail&logoColor=#505264&link=mailto:mailme.Vishal@proton.me)](mailto:mailme.Vishal@proton.me)
 
 <p>
-  Welcome to my page! </br> I'm Vishal, Aspiring Python developer from  🇮🇳<b> Mumbai, India.</b> Why do I love software development? Well, there is no greater feeling than working on a project that on onset appears to be an insurmountable task, but on further introspection is totally conquerable. Through software development, I wish to turn ideas that I've concocted into reality.
+  Welcome to my page! </br> I'm Vishal, Aspiring Software developer from  🇮🇳<b> Mumbai, India.</b> Why do I love software development? Well, there is no greater feeling than working on a project that on onset appears to be an insurmountable task, but on further introspection is totally conquerable. Through software development, I wish to turn ideas that I've concocted into reality.
 </p>
 
 - 🔭 I’m currently analyzing a wide range of datasets.
