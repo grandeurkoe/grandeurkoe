@@ -49,11 +49,13 @@ Through the art of software development, I strive to breathe life into the ideas
 ### My Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2020%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,263 Contributions in the Year 2023
+> 🏆 1,270 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -61,6 +63,49 @@ Through the art of software development, I strive to breathe life into the ideas
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                351 commits         ███████░░░░░░░░░░░░░░░░░░   26.59 % 
+🌆 Daytime                637 commits         ████████████░░░░░░░░░░░░░   48.26 % 
+🌃 Evening                332 commits         ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   256 commits         █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+Tuesday                  178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Wednesday                166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Thursday                 102 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Friday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Saturday                 154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Sunday                   309 commits         ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   17 mins             ███████████░░░░░░░░░░░░░░   45.00 % 
+Markdown                 11 mins             ████████░░░░░░░░░░░░░░░░░   30.71 % 
+Other                    9 mins              ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+
+🔥 Editors: 
+VS Code                  28 mins             ███████████████████░░░░░░   74.48 % 
+Obsidian                 9 mins              ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
+
+🐱‍💻 Projects: 
+python-neetcode          28 mins             ███████████████████░░░░░░   74.48 % 
+Obsidian Vault           9 mins              ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
+
+💻 Operating System: 
+Windows                  38 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -77,7 +122,7 @@ Jupyter Notebook         2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/grandeurkoe/grandeurkoe/main/assets/bar_graph.png)
 
 
- Last Updated on 06/12/2023 18:37:46 UTC
+ Last Updated on 07/12/2023 18:38:01 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
