@@ -90,16 +90,16 @@ Sunday                   326 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-More Projects            0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -118,7 +118,7 @@ Jupyter Notebook         2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/grandeurkoe/grandeurkoe/main/assets/bar_graph.png)
 
 
- Last Updated on 09/02/2024 18:35:40 UTC
+ Last Updated on 10/02/2024 18:36:48 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
