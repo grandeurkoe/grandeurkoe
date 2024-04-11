@@ -49,8 +49,6 @@ Through the art of software development, I strive to breathe life into the ideas
 ### My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%203%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
@@ -61,45 +59,6 @@ Through the art of software development, I strive to breathe life into the ideas
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                455 commits         ████████░░░░░░░░░░░░░░░░░   30.19 % 
-🌆 Daytime                686 commits         ███████████░░░░░░░░░░░░░░   45.52 % 
-🌃 Evening                366 commits         ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   297 commits         █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-Tuesday                  198 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Wednesday                190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Thursday                 128 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-Friday                   185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-Saturday                 179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Sunday                   330 commits         █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Markdown                 14 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Obsidian                 14 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Obsidian Vault           14 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -116,7 +75,7 @@ Jupyter Notebook         2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/grandeurkoe/grandeurkoe/main/assets/bar_graph.png)
 
 
- Last Updated on 10/04/2024 18:59:17 UTC
+ Last Updated on 11/04/2024 18:36:01 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
