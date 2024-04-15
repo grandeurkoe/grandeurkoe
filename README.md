@@ -49,6 +49,8 @@ Through the art of software development, I strive to breathe life into the ideas
 ### My Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%2019%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
@@ -114,7 +116,7 @@ Jupyter Notebook         2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/grandeurkoe/grandeurkoe/main/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2024 22:59:23 UTC
+ Last Updated on 15/04/2024 18:37:05 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
