@@ -49,11 +49,13 @@ Through the art of software development, I strive to breathe life into the ideas
 ### My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2016%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
+ > 
+> 🏆 199 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -88,19 +90,19 @@ Sunday                   331 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      4 hrs 28 mins       ███████████████░░░░░░░░░░   59.56 % 
-Java                     2 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   39.53 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+C++                      4 hrs 13 mins       ██████████████░░░░░░░░░░░   57.03 % 
+Java                     3 hrs 6 mins        ███████████░░░░░░░░░░░░░░   42.07 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 30 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-learn-cpp                4 hrs 32 mins       ███████████████░░░░░░░░░░   60.45 % 
-learn-java               2 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   39.55 % 
+learn-cpp                4 hrs 17 mins       ██████████████░░░░░░░░░░░   57.91 % 
+learn-java               3 hrs 6 mins        ███████████░░░░░░░░░░░░░░   42.09 % 
 
 💻 Operating System: 
-Windows                  7 hrs 30 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -120,7 +122,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/grandeurkoe/grandeurkoe/main/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2024 18:37:04 UTC
+ Last Updated on 30/04/2024 18:38:19 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
