@@ -7,7 +7,9 @@
 </picture></h2>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=granduekoe&style=flat-square&color=blueviolet)
+<!---
 ![Discord Badge](https://dcbadge.vercel.app/api/shield/1157897812491649074?style=flat-square&theme=discord-inverted)
+--->
 [![Protonmail Badge](https://img.shields.io/badge/-mailme.Vishal@proton.me-8a90c7?style=flat-square&logo=Protonmail&logoColor=#505264&link=mailto:mailme.Vishal@proton.me)](mailto:mailme.Vishal@proton.me)
 [![Gmail Badge](https://img.shields.io/badge/-connect.VishalNow@gmail.com-dadada?style=flat-square&logo=Gmail&logoColor=#d44638&link=mailto:connect.VishalNow@gmail.com)](mailto:connect.VishalNow@gmail.com)
 
