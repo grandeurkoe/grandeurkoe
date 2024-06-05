@@ -49,13 +49,11 @@ Through the art of software development, I strive to breathe life into the ideas
 ### My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-182%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-182%20hrs%2057%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
- > 
-> 🏆 196 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -90,21 +88,19 @@ Sunday                   332 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     11 hrs 2 mins       ███████████████████████░░   91.12 % 
-Markdown                 1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+HTML                     8 hrs 41 mins       ██████████████████████░░░   88.15 % 
+Markdown                 1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 2 mins       ███████████████████████░░   91.22 % 
-Obsidian                 1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+VS Code                  8 hrs 41 mins       ██████████████████████░░░   88.15 % 
+Obsidian                 1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
 
 🐱‍💻 Projects: 
-learn-html               11 hrs 2 mins       ███████████████████████░░   91.12 % 
-Obsidian Vault           1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-learn-java               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+learn-html               8 hrs 41 mins       ██████████████████████░░░   88.15 % 
+Obsidian Vault           1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
 
 💻 Operating System: 
-Windows                  12 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -123,7 +119,7 @@ Jupyter Notebook         2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/grandeurkoe/grandeurkoe/main/assets/bar_graph.png)
 
 
- Last Updated on 04/06/2024 18:38:45 UTC
+ Last Updated on 05/06/2024 18:38:45 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
