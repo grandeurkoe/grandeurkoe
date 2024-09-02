@@ -17,8 +17,7 @@
 Through the art of software development, I strive to breathe life into the ideas I've brewed up in my mind. It's not just about writing code; it's about turning imagination into reality. Join me on this exciting journey where every line of code is a step closer to transforming dreams into tangible, functional creations. 💻✨
 </p>
 
-- 🔭 I’m currently analyzing a wide range of datasets.
-- 🌱 I’m currently learning **Data Science**.
+- 🌱 I’m currently learning **Bootstrap**.
 - 👯 I’m willing to collaborate on building communities, and projects.
 
 ### My Tools
