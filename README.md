@@ -48,11 +48,11 @@ Through the art of software development, I strive to breathe life into the ideas
 ### My Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-287%20hrs%2025%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
- > 
-> 🏆 827 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -60,6 +60,48 @@ Through the art of software development, I strive to breathe life into the ideas
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                646 commits         ████████░░░░░░░░░░░░░░░░░   30.16 % 
+🌆 Daytime                855 commits         ██████████░░░░░░░░░░░░░░░   39.92 % 
+🌃 Evening                586 commits         ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+🌙 Night                  55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   434 commits         █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+Tuesday                  376 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+Wednesday                304 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Thursday                 200 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Friday                   316 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Saturday                 200 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Sunday                   312 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Markdown                 15 mins             ██████████████████████░░░   89.71 % 
+HTML                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+
+🔥 Editors: 
+Obsidian                 15 mins             ██████████████████████░░░   89.71 % 
+VS Code                  1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+
+🐱‍💻 Projects: 
+Obsidian Vault           15 mins             ██████████████████████░░░   89.71 % 
+web-development-bootcamp-1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+
+💻 Operating System: 
+Windows                  17 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -76,7 +118,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/grandeurkoe/grandeurkoe/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2024 18:43:47 UTC
+ Last Updated on 23/10/2024 18:43:57 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
