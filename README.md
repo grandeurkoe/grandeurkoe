@@ -48,8 +48,6 @@ Through the art of software development, I strive to breathe life into the ideas
 ### My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-287%20hrs%2029%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
@@ -60,45 +58,6 @@ Through the art of software development, I strive to breathe life into the ideas
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                647 commits         ████████░░░░░░░░░░░░░░░░░   30.16 % 
-🌆 Daytime                855 commits         ██████████░░░░░░░░░░░░░░░   39.86 % 
-🌃 Evening                588 commits         ███████░░░░░░░░░░░░░░░░░░   27.41 % 
-🌙 Night                  55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   434 commits         █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-Tuesday                  377 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-Wednesday                304 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Thursday                 201 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-Friday                   317 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Saturday                 200 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Sunday                   312 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -115,7 +74,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/grandeurkoe/grandeurkoe/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2024 18:40:50 UTC
+ Last Updated on 03/11/2024 18:41:52 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
