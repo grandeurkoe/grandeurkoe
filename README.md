@@ -48,7 +48,7 @@ Through the art of software development, I strive to breathe life into the ideas
 ### My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-287%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-291%20hrs%2029%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -89,16 +89,22 @@ Sunday                   313 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 10 mins             █████████████████████████   100.00 % 
+Markdown                 2 hrs 54 mins       ██████████████████░░░░░░░   72.63 % 
+Java                     1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   27.37 % 
 
 🔥 Editors: 
-Obsidian                 10 mins             █████████████████████████   100.00 % 
+Obsidian                 2 hrs 54 mins       ██████████████████░░░░░░░   72.63 % 
+NetBeans                 1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   27.37 % 
 
 🐱‍💻 Projects: 
-Obsidian Vault           10 mins             █████████████████████████   100.00 % 
+Obsidian Vault           2 hrs 54 mins       ██████████████████░░░░░░░   72.63 % 
+Part01_10.Story          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Part01_02.AdaLovelace    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Part01_13.DoubleInput    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Part01_09.Conversation   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+Windows                  4 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -117,7 +123,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/grandeurkoe/grandeurkoe/main/assets/bar_graph.png)
 
 
- Last Updated on 11/11/2024 18:42:39 UTC
+ Last Updated on 12/11/2024 18:42:51 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
