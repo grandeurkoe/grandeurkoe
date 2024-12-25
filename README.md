@@ -48,11 +48,13 @@ Through the art of software development, I strive to breathe life into the ideas
 ### My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-305%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-305%20hrs%2043%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
+ > 
+> 🏆 887 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -63,20 +65,20 @@ Through the art of software development, I strive to breathe life into the ideas
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                651 commits         ███████░░░░░░░░░░░░░░░░░░   29.58 % 
-🌆 Daytime                887 commits         ██████████░░░░░░░░░░░░░░░   40.30 % 
-🌃 Evening                608 commits         ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+🌞 Morning                651 commits         ███████░░░░░░░░░░░░░░░░░░   29.56 % 
+🌆 Daytime                887 commits         ██████████░░░░░░░░░░░░░░░   40.28 % 
+🌃 Evening                609 commits         ███████░░░░░░░░░░░░░░░░░░   27.66 % 
 🌙 Night                  55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   473 commits         █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
-Tuesday                  379 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-Wednesday                313 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Monday                   473 commits         █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
+Tuesday                  379 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Wednesday                314 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
 Thursday                 201 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-Friday                   318 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Saturday                 202 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Friday                   318 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Saturday                 202 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
 Sunday                   315 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
 ```
 
@@ -87,16 +89,16 @@ Sunday                   315 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 10 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Obsidian                 10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+DevMind                  10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -115,7 +117,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/grandeurkoe/grandeurkoe/main/assets/bar_graph.png)
 
 
- Last Updated on 24/12/2024 18:42:23 UTC
+ Last Updated on 25/12/2024 18:42:03 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
