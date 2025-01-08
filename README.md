@@ -48,7 +48,7 @@ Through the art of software development, I strive to breathe life into the ideas
 ### My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-306%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-306%20hrs%2037%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -89,16 +89,20 @@ Sunday                   316 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               14 mins             █████████████████████████   100.00 % 
+JavaScript               37 mins             ████████████████████░░░░░   81.08 % 
+CSS                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
+VS Code                  43 mins             ████████████████████████░   94.42 % 
+Obsidian                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 
 🐱‍💻 Projects: 
-first-react-app          14 mins             █████████████████████████   100.00 % 
+first-react-app          43 mins             ████████████████████████░   94.42 % 
+DevMind                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.00 % 
+Windows                  45 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -117,7 +121,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/grandeurkoe/grandeurkoe/main/assets/bar_graph.png)
 
 
- Last Updated on 07/01/2025 18:43:46 UTC
+ Last Updated on 08/01/2025 18:44:10 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
