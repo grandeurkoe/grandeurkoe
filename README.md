@@ -54,8 +54,6 @@ Through the art of software development, I strive to breathe life into the ideas
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 12 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 19 Public Repositories 
@@ -89,18 +87,17 @@ Sunday                   319 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               3 hrs 11 mins       ██████████████████████░░░   86.85 % 
-JSON                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+JavaScript               2 hrs 17 mins       ██████████████████████░░░   87.87 % 
+JSON                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 36 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-re-crud-app              3 hrs 40 mins       █████████████████████████   100.00 % 
+re-crud-app              2 hrs 36 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -119,7 +116,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/grandeurkoe/grandeurkoe/main/assets/bar_graph.png)
 
 
- Last Updated on 03/02/2025 18:41:35 UTC
+ Last Updated on 04/02/2025 18:43:10 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
