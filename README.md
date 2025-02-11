@@ -48,13 +48,11 @@ Through the art of software development, I strive to breathe life into the ideas
 ### My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-318%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-318%20hrs%2041%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
- > 
-> 🏆 14 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -89,16 +87,16 @@ Sunday                   320 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               22 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  22 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+first-typescript-app     22 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -117,7 +115,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/grandeurkoe/grandeurkoe/main/assets/bar_graph.png)
 
 
- Last Updated on 10/02/2025 18:42:45 UTC
+ Last Updated on 11/02/2025 18:42:53 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
