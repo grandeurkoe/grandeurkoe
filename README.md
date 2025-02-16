@@ -48,6 +48,8 @@ Through the art of software development, I strive to breathe life into the ideas
 ### My Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%206%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
@@ -58,6 +60,46 @@ Through the art of software development, I strive to breathe life into the ideas
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                656 commits         ███████░░░░░░░░░░░░░░░░░░   29.56 % 
+🌆 Daytime                892 commits         ██████████░░░░░░░░░░░░░░░   40.20 % 
+🌃 Evening                616 commits         ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+🌙 Night                  55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   476 commits         █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
+Tuesday                  382 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Wednesday                314 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Thursday                 204 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Friday                   320 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Saturday                 203 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Sunday                   320 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               1 hr 46 mins        █████████████████████████   98.88 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+
+🔥 Editors: 
+VS Code                  1 hr 47 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+first-typescript-app     1 hr 47 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  1 hr 47 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -74,7 +116,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/grandeurkoe/grandeurkoe/main/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2025 18:39:41 UTC
+ Last Updated on 16/02/2025 18:40:33 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
