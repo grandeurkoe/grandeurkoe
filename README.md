@@ -48,11 +48,13 @@ Through the art of software development, I strive to breathe life into the ideas
 ### My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-392%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-393%20hrs%202%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
+ > 
+> 🏆 46 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -87,17 +89,17 @@ Sunday                   225 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 25 mins        █████████████████████████   100.00 % 
+Markdown                 44 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Obsidian                 1 hr 25 mins        █████████████████████████   100.00 % 
+Obsidian                 44 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-obsidian-vault           1 hr 7 mins         ████████████████████░░░░░   78.66 % 
-code-vault               18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
+code-vault               22 mins             █████████████░░░░░░░░░░░░   50.59 % 
+obsidian-vault           21 mins             ████████████░░░░░░░░░░░░░   49.41 % 
 
 💻 Operating System: 
-Linux                    1 hr 25 mins        █████████████████████████   100.00 % 
+Linux                    44 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -117,7 +119,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/grandeurkoe/grandeurkoe/main/assets/bar_graph.png)
 
 
- Last Updated on 07/05/2025 18:47:09 UTC
+ Last Updated on 08/05/2025 18:48:10 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
