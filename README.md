@@ -54,8 +54,6 @@ Through the art of software development, I strive to breathe life into the ideas
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 46 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 20 Public Repositories 
@@ -89,17 +87,16 @@ Sunday                   225 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 44 mins             █████████████████████████   100.00 % 
+Markdown                 13 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Obsidian                 44 mins             █████████████████████████   100.00 % 
+Obsidian                 13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-code-vault               22 mins             █████████████░░░░░░░░░░░░   50.59 % 
-obsidian-vault           21 mins             ████████████░░░░░░░░░░░░░   49.41 % 
+code-vault               13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    44 mins             █████████████████████████   100.00 % 
+Linux                    13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -119,7 +116,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/grandeurkoe/grandeurkoe/main/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2025 18:48:10 UTC
+ Last Updated on 09/05/2025 18:46:38 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
