@@ -54,8 +54,6 @@ Through the art of software development, I strive to breathe life into the ideas
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 81 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 22 Public Repositories 
@@ -118,7 +116,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/grandeurkoe/grandeurkoe/main/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2025 18:51:22 UTC
+ Last Updated on 04/08/2025 18:55:40 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
