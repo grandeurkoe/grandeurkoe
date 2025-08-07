@@ -48,7 +48,7 @@ Through the art of software development, I strive to breathe life into the ideas
 ### My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-466%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-466%20hrs%2018%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -87,16 +87,17 @@ Sunday                   234 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     0 secs              ███████████████████░░░░░░   75.28 % 
+Markdown                 0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+quill-base               0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -116,7 +117,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/grandeurkoe/grandeurkoe/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2025 18:54:17 UTC
+ Last Updated on 07/08/2025 18:56:13 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
