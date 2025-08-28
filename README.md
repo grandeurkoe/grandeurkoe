@@ -48,13 +48,11 @@ Through the art of software development, I strive to breathe life into the ideas
 ### My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-466%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-467%20hrs%202%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
- > 
-> 🏆 81 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -89,17 +87,20 @@ Sunday                   234 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Bash                     1 min               ███████████████████████░░   90.48 % 
-Markdown                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Java                     27 mins             ███████████████████████░░   93.25 % 
+Bash                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+Eclipse                  27 mins             ███████████████████████░░   93.25 % 
+VS Code                  2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 
 🐱‍💻 Projects: 
-quill-base               2 mins              █████████████████████████   100.00 % 
+QuizGrub                 27 mins             ███████████████████████░░   93.25 % 
+quill-base               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 
 💻 Operating System: 
-Linux                    2 mins              █████████████████████████   100.00 % 
+Linux                    29 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -119,7 +120,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/grandeurkoe/grandeurkoe/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2025 18:45:20 UTC
+ Last Updated on 28/08/2025 18:47:32 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
