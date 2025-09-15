@@ -54,8 +54,6 @@ Through the art of software development, I strive to breathe life into the ideas
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 82 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 22 Public Repositories 
@@ -89,16 +87,16 @@ Sunday                   234 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     58 mins             █████████████████████████   100.00 % 
+Java                     48 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Eclipse                  58 mins             █████████████████████████   100.00 % 
+Eclipse                  48 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TakiraSolutions          58 mins             █████████████████████████   100.00 % 
+TakiraSolutions          48 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    58 mins             █████████████████████████   100.00 % 
+Linux                    48 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -118,7 +116,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/grandeurkoe/grandeurkoe/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2025 18:41:22 UTC
+ Last Updated on 15/09/2025 18:46:19 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
